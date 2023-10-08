@@ -10,7 +10,7 @@ permissions
     1. admin
             can create a movie and edit or delete a review given by the enduser.
     2. only authenticate  user can give review to the movie.
-    3. anyone can see the movie and reviews given by the users.
+    3. anyone can see the movies and reviews given by the users.
 
 AUTHENTICATION
     Token authentication has been used 
